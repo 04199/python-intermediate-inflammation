@@ -18,5 +18,4 @@ These failing tests set out the requirements for the additional code to be imple
 The tests should be run using `pytest`, which will be introduced during the workshop.
 
 
-[[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/04199/python-intermediate-inflammation/MAIN)
-](https://mybinder.org/v2/gh/04199/python-intermediate-inflammation/MAIN)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/04199/python-intermediate-inflammation/HEAD)
