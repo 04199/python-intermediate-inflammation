@@ -1,0 +1,55 @@
+{
+  "@context": [
+    "https://w3id.org/ro/crate/1.1/context",
+    {
+      "@vocab": "http://schema.org/"
+    }
+  ],
+  "@graph": [
+    {
+      "@id": "ro-crate-metadata.json",
+      "@type": "CreativeWork",
+      "identifier": "ro-crate-metadata.json",
+      "about": {
+        "@id": "#Aleksandra Nenadic #Steve Crouch"
+      }
+    },
+    {
+      "@id": "#Aleksandra Nenadic #Steve Crouch",
+      "@type": "Dataset",
+      "name": [
+        "Python Intermediate Inflammation Analysis"
+      ],
+      "description": [
+        "Example Python project analysing patient inflammation data, used for reproducibility and FAIR data management training."
+      ],
+      "license": [
+        ""
+      ],
+      "author": [
+        {
+          "@id": "#Aleksandra_Nenadic"
+        },
+        {
+          "@id": "#Steve_Crouch"
+        }
+      ]
+    },
+    {
+      "@id": "#Aleksandra_Nenadic",
+      "@type": [
+        "Person"
+      ],
+      "name": [
+        "Aleksandra_Nenadic"
+      ]
+    },
+    {
+      "@id": "#Steve_Crouch",
+      "@type": "Person",
+      "name": [
+        "Steve_Crouch"
+      ]
+    }
+  ]
+}
